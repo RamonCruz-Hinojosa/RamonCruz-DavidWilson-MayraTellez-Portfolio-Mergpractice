@@ -1,0 +1,23 @@
+.contactli > a:active {
+  font-size: 50px;
+}
+
+.contactli:hover {
+  transform: scale(1.5, 2);
+}
+
+.aboutli > a:active {
+  font-size: 50px;
+}
+
+.aboutli:hover {
+  transform: scale(1.5, 2);
+}
+
+.portfolioli > a:active {
+  font-size: 50px;
+}
+
+.portfolioli:hover {
+  transform: scale(1.5, 2);
+}
