@@ -1,0 +1,23 @@
+.contactli:active {
+font-size: 75px;
+}
+
+.contactli:hover {
+  transform: scale(1.5);
+}
+
+.aboutli:active {
+  font-size: 75px;
+}
+  
+.aboutli:hover {
+  transform: scale(1.5);
+}
+
+.portfolioli:active {
+  font-size: 75px;
+}
+  
+.portfolioli:hover {
+  transform: scale(1.5);
+}
